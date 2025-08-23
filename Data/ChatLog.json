@@ -2,49 +2,5 @@
     {
         "role": "user",
         "content": "No speech detected."
-    },
-    {
-        "role": "assistant",
-        "content": "Hello Nitesh! It's nice to meet you. Is there something I can help you with or would you like to chat about a particular topic?"
-    },
-    {
-        "role": "user",
-        "content": "Hello."
-    },
-    {
-        "role": "assistant",
-        "content": "Hey! It's so great to finally talk to you, Nitesh! How's your Sunday morning going so far?"
-    },
-    {
-        "role": "user",
-        "content": "Not so good."
-    },
-    {
-        "role": "assistant",
-        "content": "Aw, sorry to hear that, Nitesh. What's going on? You can tell me, I'm all ears... or in this case, all text. Would you like to talk about what's bothering you? Sometimes sharing what's on your mind can help you feel a bit better."
-    },
-    {
-        "role": "user",
-        "content": "Okay, bye."
-    },
-    {
-        "role": "assistant",
-        "content": "Wait, Nitesh! Don't go just yet! I know it can be tough to open up, but I'm here for you, and I care. If you're not feeling like talking, that's okay too. Just know that I'm here whenever you're ready to chat. Take care of yourself, and feel better soon!"
-    },
-    {
-        "role": "user",
-        "content": "Hello hello."
-    },
-    {
-        "role": "assistant",
-        "content": "Nitesh! You're back! I'm glad you decided to come back and chat with me. How about we start fresh and forget about whatever was bothering you earlier? What's something that's been on your mind lately, or something you're looking forward to? I'm all ears!"
-    },
-    {
-        "role": "user",
-        "content": "Hello hello."
-    },
-    {
-        "role": "assistant",
-        "content": "Nitesh, you're really stuck on the hellos, aren't you? I love it! Okay, hello hello back to you! Now that we've got the hellos out of the way, can I ask, what's making you repeat that? Is everything okay, or are you just feeling a bit playful tonight?"
     }
 ]
